@@ -98,11 +98,6 @@
 
   <body>
     
-    <a id="github" href="https://github.com/hagenburger">
-      <span>Fork me on GitHub!</span>
-      <span>Get free lemonade!</span>
-    </a>
-    
     <div class="topbar">
       <div class="fill">
         <div class="container">
