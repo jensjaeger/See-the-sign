@@ -112,7 +112,7 @@
 			<p>See the Sign is the advertising network of J&auml;ger &amp; Schweizer Ingenieure. A simple tool to present ads on webpages.</p>
 			
 			<p>
-				Technically it's a super simple rest api written in php. This pages are styled with <a href="http://twitter.github.com/bootstrap/">bootstrap</a>. The sourcecode is available on github under the <a href="http://www.opensource.org/licenses/mit-license.php">MIT-Licence</a>.
+				Technically it's a super simple rest api written in php. This pages are styled with <a href="http://twitter.github.com/bootstrap/">bootstrap</a>. The sourcecode is available <a href="https://github.com/jensjaeger/See-the-sign">on github</a> under the <a href="http://www.opensource.org/licenses/mit-license.php">MIT-Licence</a>.
           </div>
           <div class="span4">
             <h3>About us</h3>
