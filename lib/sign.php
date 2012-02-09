@@ -29,6 +29,7 @@ $signs = array(
   new Sign("Handysquares", "http://autobahn81.com/design/handysquares-magazine/", "Handy Squares. A premium Indesign template. Magazine or Book. 210x210 mm", "http://sign.js-ing.com/i/thumb-handysquares.png"),
   new Sign("Mapped contact form pro", "http://autobahn81.com/design/mapped-contact-form-pro/", "Mapped contact form pro. Ajax contact form inside a google maps info window. ", "http://sign.js-ing.com/i/thumb-mapped-contact.png"),
   new Sign("Travel map pro", "http://autobahn81.com/design/travel-map-pro/", "Travel map pro. Easy travel route with google maps.", "http://sign.js-ing.com/i/thumb-travelmap.png"),
-    new Sign("Snow campus", "http://autobahn81.com/design/snowcampus-winter-stationery/", "SnowCampus Stationery. Quark and Indesign corporate identity pack.", "http://sign.js-ing.com/i/thumb-snowcampus-xxl.png")
+    new Sign("Snow campus", "http://autobahn81.com/design/snowcampus-winter-stationery/", "SnowCampus Stationery. Quark and Indesign corporate identity pack.", "http://sign.js-ing.com/i/thumb-snowcampus-xxl.png"),
+    new Sign("Iceland ", "http://unleashyouradventure.com/pages/unleash-your-adventure-books", "Iceland: A Stormy Motorcycle Adventure, an ebook by Sherrie McCarthy.", "http://sign.js-ing.com/i/iceland_cover_53x80.png")
 );
 ?>

@@ -135,8 +135,14 @@
           </div>
           <div class="span4">
             <h3>Members</h3>
+            <p>Proud members of the See the Sign advertising etwork</p>
 			<ul>
+				<li><a href="http://equalgoesitloose.com">equalgoesitloose.com</a></li>
+				<li><a href="http://www.gypsyprincess.info">gypsyprincess.info</a></li>
 				<li><a href="http://www.jensjaeger.com">jensjaeger.com</a></li>
+				<li><a href="http://stickyapplekisses.com">stickyapplekisses.com</a></li>
+				<li><a href="http://weltreisebuch.de">weltreisebuch.de</a></li>
+			</ul>
           </div>
         </div>
       </div>
