@@ -142,6 +142,7 @@
 				<li><a href="http://www.jensjaeger.com">jensjaeger.com</a></li>
 				<li><a href="http://stickyapplekisses.com">stickyapplekisses.com</a></li>
 				<li><a href="http://weltreisebuch.de">weltreisebuch.de</a></li>
+				<li><a href="http://www.journizer.com">journizer.com</a></li>
 			</ul>
           </div>
         </div>
